@@ -1,1 +1,40 @@
+In this Excel document, you'll find the results obtained from the motivational system tests. The document is divided into sheets and organized by purpose.
 
+---
+
+Sort Cylinders by Color
+
+Sheet 1:
+Purpose_cylinders_baskets: Contains the alignment and semantic similarity results.
+
+Sheet 2:
+Missions_cylinders_baskets: Contains the results of the missions generated for this purpose, including how many are valid and invalid.
+
+Sheet 3:
+Drives_cylinders_baskets: Contains all the drive functions generated for the purpose of sorting cylinders, as well as the number of valid and invalid functions.
+
+---
+
+Sort Apples by Color
+
+Sheet 4:
+Purpose_sort_apples: Contains the alignment and semantic similarity results for this purpose.
+
+Sheet 5:
+Missions_sort_apples: Contains the results of the missions generated for this purpose, including how many are valid and invalid.
+
+Sheet 6:
+Drives_sort_apples: Contains all the drive functions generated for the purpose of sorting apples, as well as the number of valid and invalid functions.
+
+---
+
+Stack Cylinders by Size in the Center of the Table
+
+Sheet 7:
+Purpose_stack_cylinders: Contains the alignment and semantic similarity results for this purpose.
+
+Sheet 8:
+Missions_stack_cylinders: Contains the results of the missions generated for this purpose, including how many are valid and invalid.
+
+Sheet 9:
+Drives_stack_cylinders: Contains all the drive functions generated for the purpose of stacking cylinders, as well as the number of valid and invalid functions.
